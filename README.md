@@ -2,7 +2,7 @@
 
 ![CodeRabbit Pull Request Reviews](https://img.shields.io/coderabbit/prs/github/pravets/onec-cfg2md?utm_source=oss&utm_medium=github&utm_campaign=pravets%2Fonec-cfg2md&labelColor=171717&color=FF570A&link=https%3A%2F%2Fcoderabbit.ai&label=CodeRabbit+Reviews)
 ![License](https://img.shields.io/github/license/pravets/onec-cfg2md)
-[![Telegram](https://telegram-badge.vercel.app/api/telegram-badge?channelId=@pravets_IT)](https://t.me/pravets_it)
+[![Telegram](https://telegram-badge.vercel.app/api/telegram-badge?channelId=@pravets_IT)](https://t.me/+GKGRmAwghxllYzIy)
 
 Конвертер метаданных конфигурации 1С в формат Markdown для использования в Model Context Protocol (MCP).
 
